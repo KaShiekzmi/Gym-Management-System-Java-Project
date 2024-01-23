@@ -43,10 +43,6 @@ Follow the on-screen instructions in the Command Line Interface to perform vario
 
 We welcome contributions from the community. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to anyone who contributed to this project and the open-source community for their valuable resources.
